@@ -1,0 +1,41 @@
+
+p{
+
+    color: bisque;font-size: 200%;
+    text-align: justify;
+
+
+} 
+
+h1{  
+
+    color: bisque;font-size: 200%;
+    background-color: brown;
+    text-align: justify;
+    padding: 5%;
+    border:blue 
+}
+.red{
+
+    color:aquamarine;
+}
+
+
+.large{
+
+ 
+    font-size: 300%;
+}
+.blue{
+color: blue;
+
+}
+h3{
+
+background-color: blanchedalmond;
+padding: 5%;
+}
+#green{
+
+    color:green;
+}
